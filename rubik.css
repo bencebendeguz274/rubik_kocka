@@ -30,9 +30,8 @@ p {
 .erdekesseg {
     font-size: 70%;
     padding: 7px;
-    font-weight: normal;
-    font-style: italic 
     background-color: #D3D3D3;
+    font-style: italic 
 }
 
 li {
